@@ -4,7 +4,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duoan/)](https://www.linkedin.com/in/duoan/)
 
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
+[![Gmail Badge](https://img.shields.io/badge/-victor.duo.an@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:-victor.duo.an@gmail.com)](mailto:victor.duo.an@gmail.co)
 
 
 - 🏢 I'm currently working at **Amazon**
