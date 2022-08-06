@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, Connect with me here -
 
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duoan/)](https://www.linkedin.com/in/duoan/)
 
