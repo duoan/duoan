@@ -11,8 +11,8 @@ I work at the intersection of **machine learning, data systems, and distributed 
 designing end-to-end pipelines that enable large-scale **vision-language model training**.
 
 My focus areas:
-- 🧠 **Training efficiency and scalability** — optimizing compute, data flow, and throughput across 1000+ GPUs  
-- 📦 **Data-centric learning systems** — improving model quality through large-scale data curation, filtering, and alignment  
+- 🧠 **Training efficiency and scalability** — optimizing compute, data flow, and throughput across thousands GPUs  
+- 🧩 **Learning-centric infrastructure** — designing systems that shape how multimodal models learn, generalize, and align at scale  
 - ☁️ **AWS-native orchestration** — integrating Ray, Spark, and Kubernetes for dynamic multimodal workloads  
 - 🔍 **Research-driven engineering** — bridging the boundary between infrastructure and model behavior
 
