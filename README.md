@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Duo An (Victor)
+# 👋 Hi, I'm Duo(Victor) An 
 
 **Senior Machine Learning Engineer @ Amazon AGI**  
 Scaling multimodal foundation models — optimizing how they learn, generalize, and align through data and systems co-design.
