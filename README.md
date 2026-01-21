@@ -26,8 +26,9 @@ My focus areas:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square&logo=huggingface&logoColor=black)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-000000?style=flat-square&logo=deepspeed.ai&logoColor=white)
+![Megtron-LM](https://img.shields.io/badge/Megtron-000000?style=flat-square&logo=nvidia&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=facebook&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-000000?style=flat-square&logo=deeplearning.ai&logoColor=white)
 
 #### Systems & Infra
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
